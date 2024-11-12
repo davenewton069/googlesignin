@@ -1,6 +1,4 @@
-# Example of RNOvpn Module for Expo
-
-This is an example (Android only) of the [RNOvpn Module](https://github.com/ccnnde/react-native-simple-openvpn) for an [Expo](https://expo.dev/) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app)
+# Example using Google Sign-in configured with Google Cloud Console Client ID
 
 ## Get started
 
