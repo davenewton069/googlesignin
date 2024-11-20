@@ -19,7 +19,7 @@ const App: React.FC<{ navigation: any }> = ({ navigation }) => {
              const response = await GoogleSignin.signIn();
              if (isSuccessResponse(response)) {
                console.log( response.data );
-               navigation.navigate("AppNavigator")
+               navigation.navigate("App")
              } else {
                // sign in was cancelled by user
              }
